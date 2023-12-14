@@ -25,6 +25,7 @@ public class Ejemplo11 {
         double [] promediosMateria1 = {8.1, 9, 9.5, 10, 9.9};
         double[] promediosMateria2 = {7.9, 9.2, 9.7, 9.8, 9.7};
         String[] estudiantes = {"Luis", "Ana", "Mónica", "José", "Juan"};
+                 // promediosFinales = (8.0, 0.0, 0.0, 0.0, 0.0)
         double[] promediosFinales = new double[5];
         
         double sumaNotas;
